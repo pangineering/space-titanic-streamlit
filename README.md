@@ -1,6 +1,6 @@
 # Space Titanic Streamlit
 ## 💰You can help me by becoming a sponsor on GitHub
-[![GitHub Sponsor](https://github.com/sponsors/pangineering/card)](https://github.com/sponsors/pangineering) 
+[![GitHub Sponsor](https://github.com/sponsors)](https://github.com/sponsors/pangineering) 
 
 ## 💰You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https:buymeacoffee.com/pangineering)  
