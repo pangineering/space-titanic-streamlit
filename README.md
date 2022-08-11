@@ -1,6 +1,14 @@
 ![Header](./header.png)
 
 # Space Titanic Streamlit
+
+## Tech Stack
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=plastic)
+![Streamlit Badge](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff&style=plastic)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=plastic)
+
+---
 ## 💰You can help me by becoming a sponsor on GitHub
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=fff&style=square)](https://github.com/sponsors/pangineering) 
 
