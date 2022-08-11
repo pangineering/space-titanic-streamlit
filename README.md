@@ -1,6 +1,7 @@
 ![Header](./header.png)
 
 # Space Titanic Streamlit
+Predict if you will be transported to a different dimension or not during your space trip
 
 ## Tech Stack
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
@@ -24,6 +25,22 @@
 - RoomService, FoodCourt, ShoppingMall, Spa, VRDeck - Amount the passenger has billed at each of the Spaceship Titanic's many luxury amenities.
 - Name - The first and last names of the passenger.
 - Transported - Whether the passenger was transported to another dimension.
+
+## Model
+**CatBoost**
+
+```python
+model=CatBoostClassifier(iterations=1500,eval_metric='Accuracy',verbose=0)
+```
+
+```python
+model.fit(X_train,y_train)
+```
+
+**Train Accuracy:** 0.88
+
+**Validation Accuracy:** 0.81
+
 ---
 ## 💰You can help me by becoming a sponsor on GitHub
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=fff&style=square)](https://github.com/sponsors/pangineering) 
