@@ -56,7 +56,6 @@ streamlit run app.py
 ```
 
 
-## Screen
 ---
 ## 💰You can help me by becoming a sponsor on GitHub
 [![GitHub Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?logo=githubsponsors&logoColor=fff&style=square)](https://github.com/sponsors/pangineering) 
