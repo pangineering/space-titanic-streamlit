@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](header.png)
 
 # Space Titanic Streamlit
 Predict if you will be transported to a different dimension or not during your space trip
