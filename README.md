@@ -1,4 +1,4 @@
-![Header](./header.png)
+![Header](./heading.png)
 
 # Space Titanic Streamlit
 
