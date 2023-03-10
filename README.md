@@ -1,7 +1,8 @@
-![Header](header.png)
+![Header](./header.png)
 
 # Space Titanic Streamlit
-Predict if you will be transported to a different dimension or not during your space trip
+
+Space Titanic Streamlit uses machine learning to predict if the Titanic's passengers were transported to an alternate dimension. The project includes a Jupyter Notebook and a Streamlit web app for user interaction. Contributors are welcome to explore the project and make contributions.
 
 ## Tech Stack
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
